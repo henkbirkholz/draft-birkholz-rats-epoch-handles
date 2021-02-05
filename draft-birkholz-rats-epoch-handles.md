@@ -1,7 +1,7 @@
 ---
-title: The Time Reference Token (TRT)
+title: Epoch Handles
 abbrev: TRT
-docname: draft-birkholz-time-reference-token
+docname: draft-birkholz-rats-epoch-handles-latest
 stand_alone: true
 ipr: trust200902
 area: Security
